@@ -1,0 +1,15 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "now-playing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@netlify/functions": "^0.11.0",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
